@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
 # To try the app:
-  Link: task-tracker-b6ebb.web.app (https://task-tracker-b6ebb.web.app/)
+  Link:(https://task-tracker-b6ebb.web.app/)
 
 ## Development server
 
